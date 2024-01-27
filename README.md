@@ -1,17 +1,12 @@
-# Hi there 👋
-## Ich bin FAE5
+![FaelixyzGitHub](https://img.shields.io/badge/FAE5%20GitHub-red)
+# Hey, ich bin FAE5.
 
-<!--
-**fae5de/fae5de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Über mich
+### Programmiersprachen
+![Python](https://img.shields.io/badge/Python-black?logo=python)
+![HTML](https://img.shields.io/badge/HTML-black?logo=html5")
+### Statistiken
+![GitHub Languages](https://github-readme-stats-one-ruddy-99.vercel.app/api/top-langs/?username=fae5de&exclude_repo=fae5de&show_icons=true&theme=dark)
+![GitHub Statistik](https://github-readme-stats-one-ruddy-99.vercel.app/api?username=fae5de&show_icons=true&hide=issues,prs&theme=dark)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Discord Server](https://fxkl.de/discord) - [Mailadresse](mailto:email@fae5.de) - [YouTube](https://fae5.link/youtube) - [Webseite](https://fae5.de)
